@@ -1,12 +1,26 @@
-# Coding_Challenges
+# PyLearner
 
-## Note :- Anyone can contribute.
-### Step 1: - Add questions in readme in given/same format.
-### Step 2: - Also Add Solutions of these questions in same format in existing folder.
-### Step 3: - Questions will be in only Python Language.
+## Note: Anyone Can Contribute  
 
+### Contribution Guidelines:
+- **Step 1**: Add your questions to the `README.md` file in the same format as the existing ones.
+- **Step 2**: Provide solutions for these questions in the same format, adding them to the appropriate folder.
+- **Step 3**: All questions and solutions must be in <b>Python.  
 
-## 500+ Basic Python Coding Questions
+### Contribution Structure:  
+Open the relevant folder to contribute according to your focus:  
+- **500+ Basic Coding Questions**
+- **Coding_Questions** - For Random Questions
+- **Python_Projects**  
+- **DSA_in_Python**  
+- **LeetCode_All_Questions**
+- **Roadmap**
+- **Notes & Resources** 
+
+## Ensure you follow the naming conventions and formatting guidelines for seamless collaboration! 😊
+--- 
+
+## 500+ Basic Coding Questions
 
 <details>
 <summary><img id="Basic_Python_Coding_Questions" src="https://img.shields.io/badge/500+_Basic_Coding_Questions-red?style=for-the-badge"></summary>
