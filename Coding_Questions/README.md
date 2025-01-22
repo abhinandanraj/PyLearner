@@ -13,6 +13,8 @@ Add your solution as a Python file in the same repository and Add Solution Link 
 Name the file using the format: Question_00XX.py, where 00XX corresponds to the challenge number.<br>
 Include comments in your code to explain your solution.
 
+#### In the end, Add Link in Main README.md in Randon Coding Questions box.
+
 ---
 #### Challenge 1
 
